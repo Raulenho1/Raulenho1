@@ -52,7 +52,7 @@
   <a href="https://www.linkedin.com/in/ra%C3%BAl-alvarado-baeza-6982322a9/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="<a href="mailto:rbaeza0316@gmail.com">Enviarme un mensaje</a>" target="_blank">
+  <a href="<a href="mailto:rbaeza0316@gmail.com"></a>" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
